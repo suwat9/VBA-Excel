@@ -1,7 +1,7 @@
 # Visual Basic Application 1
 ทดสอบการสร้างที่เก็บ Source Codes
 ##วันที่ 10 มกราคม 2560
-##การอบรมวันนี้จะเรียนรู้เรื่อง Excel Object 
+##การอบรมวันนี้จะเรียนรู้เรื่อง Excel Objects 
 ###จะใช้เวบนี้ในการอบรม 
 1. องค์ประกอบการเขียน Macro ใน Excel
   * https://www.excelcampus.com/vba/macros-explained-part-1/
