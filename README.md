@@ -1,15 +1,15 @@
 # Visual Basic Application 1
 ทดสอบการสร้างที่เก็บ Source Codes
 ##วันที่ 13 มกราคม 2560
-###อบรมเรื่อง ..........
+####อบรมเรื่อง ..........
 1. ยังไม่มี
 
 ##วันที่ 12 มกราคม 2560
-###อบรมเรื่อง ..........
+####อบรมเรื่อง ..........
 1. ยังไม่มี
 
 ##วันที่ 11 มกราคม 2560
-###อบรมเครื่องมือการวิเคราะห์ข้อมูลใน Excel
+####อบรมเครื่องมือการวิเคราะห์ข้อมูลใน Excel
 1. Pivot Table
   * http://www.excel-easy.com/vba/examples/macro-recorder.html
   * Data Sheet http://www.excel-easy.com/data-analysis/excel-files/pivot-tables.xls
@@ -29,7 +29,7 @@
   * http://www.excelfunctions.net/Excel-Financial-Functions.html 
 
 ##วันที่ 10 มกราคม 2560
-###การอบรมการใช้ Excel Objects 
+####การอบรมการใช้ Excel Objects 
 
 1. องค์ประกอบการเขียน Macro ใน Excel
   * https://www.excelcampus.com/vba/macros-explained-part-1/
@@ -49,7 +49,7 @@
 
 
 ##วันที่ 9 มกราคม 2560
-##เราจะสร้าง Floder 2 ที่ เพื่อเก็บ Source code และเก็บ Data
+####เราจะสร้าง Floder 2 ที่ เพื่อเก็บ Source code และเก็บ Data
 1. Codes
 1. Data
 
