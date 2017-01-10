@@ -3,7 +3,7 @@
 ##วันที่ 10 มกราคม 2560
 ##การอบรมวันนี้จะเรียนรู้เรื่อง Excel Object 
 ###จะใช้เวบนี้ในการอบรม 
-1. องค์ประกอบการเขียน Macro ใน Excel 
+1. องค์ประกอบการเขียน Macro ใน Excel
 ..* https://www.excelcampus.com/vba/macros-explained-part-1/
 ..* https://www.excelcampus.com/vba/macros-explained-part-2/
 ..* https://www.excelcampus.com/vba/macros-explained-part-3/
