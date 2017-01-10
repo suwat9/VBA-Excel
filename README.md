@@ -21,8 +21,8 @@
   * http://www.excelfunctions.net/Excel-Financial-Functions.html 
 
 ##วันที่ 10 มกราคม 2560
-###การอบรมวันนี้จะเรียนรู้เรื่อง Excel Objects 
-###จะใช้เวบนี้ในการอบรม 
+###การอบรมการใช้ Excel Objects 
+
 1. องค์ประกอบการเขียน Macro ใน Excel
   * https://www.excelcampus.com/vba/macros-explained-part-1/
   * https://www.excelcampus.com/vba/macros-explained-part-2/
