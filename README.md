@@ -7,12 +7,17 @@
   * https://www.excelcampus.com/vba/macros-explained-part-1/
   * https://www.excelcampus.com/vba/macros-explained-part-2/
   * https://www.excelcampus.com/vba/macros-explained-part-3/
-1. http://www.vbtutor.net/VBA/vba_chp19.htm
-1. http://www.vbtutor.net/VBA/vba_chp20.htm
-1. Worksheet http://excelmacromastery.com/excel-vba-worksheet/
-1. Workbook http://excelmacromastery.com/excel-vba-workbook/
-1. Range & Cell http://excelmacromastery.com/excel-vba-range-cells/
-1. Find Data http://excelmacromastery.com/excel-vba-find/
+1. การใช้งาน Excel Objects 
+  * http://www.vbtutor.net/VBA/vba_chp19.htm
+  * http://www.vbtutor.net/VBA/vba_chp20.htm
+1. Worksheet
+  * http://excelmacromastery.com/excel-vba-worksheet/
+1. Workbook 
+  * http://excelmacromastery.com/excel-vba-workbook/
+1. Range & Cell 
+  * http://excelmacromastery.com/excel-vba-range-cells/
+1. Find Data 
+  * http://excelmacromastery.com/excel-vba-find/
 
 
 ##วันที่ 9 มกราคม 2560
