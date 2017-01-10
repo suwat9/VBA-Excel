@@ -1,7 +1,27 @@
 # Visual Basic Application 1
 ทดสอบการสร้างที่เก็บ Source Codes
+##วันที่ 11 มกราคม 2560
+###อบรมเครื่องมือการวิเคราะห์ข้อมูลใน Excel
+1. Pivot Table
+  * http://www.excel-easy.com/vba/examples/macro-recorder.html
+  * Data Sheet http://www.excel-easy.com/data-analysis/excel-files/pivot-tables.xls
+  * http://www.contextures.com/excel-pivot-table-calculated-field.html
+  * http://www.gcflearnfree.org/excel2013/pivottables/1/
+  * คำอธิบายวิธีการทำ Pivot Table ภาษาไทย
+    * http://www.9experttraining.com/articles/pivot-table-คืออะไร
+    * https://reportingengineer.com/2016/02/02/pivottabletechniqueyoumustknow/
+1. Database Function 
+  * http://www.excelfunctions.net/Excel-Database-Functions.html
+1. Excel Lookup and Reference Functions
+  * Vlookup http://www.excelfunctions.net/Excel-Vlookup-Tutorial.html
+  * http://www.excelfunctions.net/Excel-Lookup-And-Reference-Functions.html
+1. Excel Statistical Functions
+  * http://www.excelfunctions.net/Excel-Statistical-Functions.html
+1. Excel Financial Functions
+  * http://www.excelfunctions.net/Excel-Financial-Functions.html 
+
 ##วันที่ 10 มกราคม 2560
-##การอบรมวันนี้จะเรียนรู้เรื่อง Excel Objects 
+###การอบรมวันนี้จะเรียนรู้เรื่อง Excel Objects 
 ###จะใช้เวบนี้ในการอบรม 
 1. องค์ประกอบการเขียน Macro ใน Excel
   * https://www.excelcampus.com/vba/macros-explained-part-1/
