@@ -4,9 +4,9 @@
 ##การอบรมวันนี้จะเรียนรู้เรื่อง Excel Object 
 ###จะใช้เวบนี้ในการอบรม 
 1. องค์ประกอบการเขียน Macro ใน Excel
-..* https://www.excelcampus.com/vba/macros-explained-part-1/
-..* https://www.excelcampus.com/vba/macros-explained-part-2/
-..* https://www.excelcampus.com/vba/macros-explained-part-3/
+  * https://www.excelcampus.com/vba/macros-explained-part-1/
+  * https://www.excelcampus.com/vba/macros-explained-part-2/
+  * https://www.excelcampus.com/vba/macros-explained-part-3/
 1. http://www.vbtutor.net/VBA/vba_chp19.htm
 1. http://www.vbtutor.net/VBA/vba_chp20.htm
 1. Worksheet http://excelmacromastery.com/excel-vba-worksheet/
