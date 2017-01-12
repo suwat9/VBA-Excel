@@ -15,6 +15,8 @@
 ##วันที่ 12 มกราคม 2560
 ####อบรมเรื่องตัวอย่าง Macro ที่จำเป็นต่อการใช้งาน #1
 1. ค้นหา & จัดเรียง
+  * การค้นหาเลขและแปลงเลขอารบิคเป็นเลขไทย และในทางกลับกัน
+  http://www.itmanage.info/technology/windows/arabic_to_thai/convert_arabic_to_thai_on_MSWord_and_MSExcel.pdf
 1. จัดรูปแบบเอกสาร
 1. คำนวณ
 1. ทำกราฟ
