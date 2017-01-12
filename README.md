@@ -24,7 +24,6 @@
 ##วันที่ 11 มกราคม 2560
 ####อบรมเครื่องมือการวิเคราะห์ข้อมูลใน Excel
 1. Pivot Table
-  * http://www.excel-easy.com/vba/examples/macro-recorder.html
   * Data Sheet http://www.excel-easy.com/data-analysis/excel-files/pivot-tables.xls
   * http://www.contextures.com/excel-pivot-table-calculated-field.html
   * http://www.gcflearnfree.org/excel2013/pivottables/1/
@@ -48,6 +47,7 @@
   * https://www.excelcampus.com/vba/macros-explained-part-1/
   * https://www.excelcampus.com/vba/macros-explained-part-2/
   * https://www.excelcampus.com/vba/macros-explained-part-3/
+  * http://www.excel-easy.com/vba/examples/macro-recorder.html
 1. การใช้งาน Excel Objects 
   * http://www.vbtutor.net/VBA/vba_chp19.htm
   * http://www.vbtutor.net/VBA/vba_chp20.htm
