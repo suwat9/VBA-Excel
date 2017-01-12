@@ -17,9 +17,28 @@
 1. ค้นหา & จัดเรียง
   * การค้นหาเลขและแปลงเลขอารบิคเป็นเลขไทย และในทางกลับกัน
   http://www.itmanage.info/technology/windows/arabic_to_thai/convert_arabic_to_thai_on_MSWord_and_MSExcel.pdf
+  * Find & Replace 
+  * http://excelmacromastery.com/excel-vba-find/
+  * https://www.thespreadsheetguru.com/the-code-vault/2014/4/14/find-and-replace-all
+  * Sorting
+  * http://software-solutions-online.com/sort-a-range-of-cells-in-excel-using-vba/
+  
 1. จัดรูปแบบเอกสาร
+  * Format http://www.excelhowto.com/macros/formatting-a-range-of-cells-in-excel-vba/
+  * Style http://www.jkp-ads.com/Articles/styles06.asp
+  * http://stackoverflow.com/questions/22659675/vba-excel-how-to-set-particular-styles-without-using-their-names
+
 1. คำนวณ
+  * http://dailydoseofexcel.com/archives/2004/04/16/worksheet-formulas-in-vba-part-i/
+  * http://dailydoseofexcel.com/archives/2004/04/16/worksheet-formula-in-vba-part-ii/
+  * http://www.excel-easy.com/vba/examples/formulaR1C1.html
+  * หลักการใช้ FormulaR1C1 http://powerspreadsheets.com/r1c1-formular1c1-vba/
+  * ความต่างระหว่างสูตร A1 กับ R1C1 http://heelpbook.altervista.org/2014/difference-formula-formular1c1-microsoft-excel/
 1. ทำกราฟ
+  * https://www.thespreadsheetguru.com/blog/2015/3/1/the-vba-coding-guide-for-excel-charts-graph
+  * http://analysistabs.com/excel-vba/chart-examples-tutorials/
+  * https://www.tutorialspoint.com/vba/vba_programming_charts.htm
+  * http://www.wiseowl.co.uk/blog/s130/modify-excel-chart-labels-vba.htm
 1. สร้างรายงาน & จัดพิมพ์
   * พิมพ์เอกสาร http://www.learnexcelmacro.com/wp/2014/06/excel-macro-to-print/
   * http://www.rondebruin.nl/win/s9/win010.htm
