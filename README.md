@@ -21,6 +21,14 @@
 1. คำนวณ
 1. ทำกราฟ
 1. สร้างรายงาน & จัดพิมพ์
+  * พิมพ์เอกสาร http://www.learnexcelmacro.com/wp/2014/06/excel-macro-to-print/
+  * http://www.rondebruin.nl/win/s9/win010.htm
+  * http://www.excelhowto.com/macros/print-worksheets-vba/
+  * การใส่ Header & Footer 
+  * http://www.cpearson.com/excel/headfoot.htm
+  * Code สำหรับกำหนดรูปแบบ Header & Footer https://msdn.microsoft.com/en-us/library/office/ff822794.aspx
+  * http://www.excel-easy.com/vba/examples/create-a-footer-before-printing.html
+  
 
 
 ##วันที่ 11 มกราคม 2560
