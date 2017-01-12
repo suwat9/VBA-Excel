@@ -24,6 +24,7 @@
 ##วันที่ 11 มกราคม 2560
 ####อบรมเครื่องมือการวิเคราะห์ข้อมูลใน Excel
 1. Pivot Table
+  * http://www.excel-easy.com/data-analysis/pivot-tables.html
   * Data Sheet http://www.excel-easy.com/data-analysis/excel-files/pivot-tables.xls
   * http://www.contextures.com/excel-pivot-table-calculated-field.html
   * http://www.gcflearnfree.org/excel2013/pivottables/1/
