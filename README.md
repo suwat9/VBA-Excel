@@ -17,6 +17,7 @@
 1. ค้นหา & จัดเรียง
   * การค้นหาเลขและแปลงเลขอารบิคเป็นเลขไทย และในทางกลับกัน
   http://www.itmanage.info/technology/windows/arabic_to_thai/convert_arabic_to_thai_on_MSWord_and_MSExcel.pdf
+  * การแสดงเลขติดลบ https://pantip.com/topic/30722183
   * Find & Replace 
   * http://excelmacromastery.com/excel-vba-find/
   * https://www.thespreadsheetguru.com/the-code-vault/2014/4/14/find-and-replace-all
