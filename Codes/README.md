@@ -7,3 +7,6 @@
   * MakeAStyle()
 1. DeleteSheet(name) ใช้ลบชีทตาม name ที่ระบุ
   * DeleteSheet("Demo") คือ ลบชีทชื่อ Demo
+1. ListStyles() ใช้แสดงรายชื่อ Style ทั้งหมดออกมาที่ชีทชื่อ Config-Styles
+  * ListStyles() 
+1. 
