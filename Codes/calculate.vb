@@ -5,8 +5,8 @@ data.Value = 10
 
 Range("A6").Select
 Selection.Formula = "=sum(a1:a5)"
-'Move Next Right Cell
 'ค่า Offset (R, C) โดยที่ R ใช้บอกแถวที่จะขยับไป และ C ใช้บอกสดมภ์ที่จะขยับไป จำนวนบวกใช้ขยับค่าให้มากขึ้น จำนวนลบใช้ขยับค่าให้น้อยลง
+'C มีค่าเป็น +1 เป็นการขยับสดมภ์ให้มากขึ้น คือขยับสดมภ์ไปทางขวา
 Selection.Offset(0, 1).Select
 Selection.Formula = "=average(a1:a5)"
 'Copy & Paste formula
