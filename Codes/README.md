@@ -7,7 +7,7 @@
   * MakeAStyle()
 1. createSheet(name) ใช้สร้างชีทชื่อ name
   * createSheet("Demo") คือสร้างชีทชื่อ Demo
-1. DeleteSheet(name) ใช้ลบชีทตาม name ที่ระบุ
+1. deleteSheet(name) ใช้ลบชีทตาม name ที่ระบุ
   * DeleteSheet("Demo") คือ ลบชีทชื่อ Demo
 1. ListStyles() ใช้แสดงรายชื่อ Style ทั้งหมดออกมาที่ชีทชื่อ Config-Styles
   * ListStyles() 
