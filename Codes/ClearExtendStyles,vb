@@ -1,0 +1,8 @@
+Sub ClearExtendStyles()
+Dim mpStyle As Style
+For Each mpStyle In ActiveWorkbook.Styles
+If Not mpStyle.BuiltIn Then
+mpStyle.Delete
+End If
+Next mpStyle
+End Sub
