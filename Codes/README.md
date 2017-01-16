@@ -13,4 +13,4 @@
   * DeleteSheet("Demo") คือ ลบชีทชื่อ Demo
 1. ListStyles() ใช้แสดงรายชื่อ Style ทั้งหมดออกมาที่ชีทชื่อ Config-Styles
   * ListStyles() 
-1. 
+1. Multi_FindReplace() ใช้สำหรับค้นหาและแทนที่คำทั้งหมด ครั้งละหลาย ๆ คำ โดยเปลี่ยนค่าใน fndList และ rplcList ซึ่งก็คือ รายการคำค้น(Find List) และ รายการคำแทน(Replace List)
