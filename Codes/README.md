@@ -5,3 +5,5 @@
   * ClearExtendStyles()
 1. MakeAStyle() ใช้สร้าง Style
   * MakeAStyle()
+1. DeleteSheet(name) ใช้ลบชีทตาม name ที่ระบุ
+  * DeleteSheet("Demo") คือ ลบชีทชื่อ Demo
