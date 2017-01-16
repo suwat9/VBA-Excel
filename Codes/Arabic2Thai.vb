@@ -10,9 +10,9 @@ Sub Arabic2Thai()
         .IncludeProtection = True
     End With
     ActiveWorkbook.Styles("ArabicToThai").NumberFormat = "[$-D07041E]t#,##0.00"
-    'àÅ×Í¡µÓáË¹è§à«Å·ÕèµéÍ§¡ÒÃà»ÅÕèÂ¹¨Ò¡àÅ¢ÍÒÃÐºÔ¤à»ç¹àÅ¢ä·Â ã¹µÑÇÍÂèÒ§àÅ×Í¡ A1
+    'Code แสดงตัวอย่าง การเลือกตำแหน่งเซลที่ต้องการเปลี่ยนจากเลขอาระบิคเป็นเลขไทย ในตัวอย่างเลือก A1
     Range("A1").Select
     Range("A1").Value = 999.99
-    '¡ÓË¹´ãËéà«ÅÊäµÅìà»ç¹ ArabicToThai «Öè§à»ç¹¡ÒÃáÊ´§àÅ¢ä·Â
+    'กำหนดให้เซลสไตล์เป็น ArabicToThai ซึ่งเป็นการแสดงเลขไทย
     Selection.Style = "ArabicToThai"
 End Sub
