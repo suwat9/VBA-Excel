@@ -1,0 +1,9 @@
+Sub CopyAllAndColumnWidths()
+''
+Sheets(1).Range("A1:P1").Copy
+For i = 2 To Worksheets.Count
+    Sheets(i).Range("A1:P1").PasteSpecial Paste:=xlPasteColumnWidths
+Next i
+Application.CutCopyMode = False
+''
+End Sub
