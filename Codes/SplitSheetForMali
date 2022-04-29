@@ -15,7 +15,9 @@ On Error Resume Next
 Set xTRg = Sheets(1).Range("A1:P1")
 If TypeName(xTRg) = "Nothing" Then Exit Sub
 'Set xVRg = Application.InputBox("Please select the column you want to split data based on:", "Kutools for Excel", "", Type:=8)
-Set xVRg = Sheets(1).Range(“B2”).End(xlToDown)
+With Sheets(1)
+    Set xVRg = .Range("B2:B" & .Cells(.Rows.Count, "B").End(xlDown).Row)
+End With
 If TypeName(xVRg) = "Nothing" Then Exit Sub
 vcol = xVRg.Column
 Set ws = xTRg.Worksheet
